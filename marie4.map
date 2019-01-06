@@ -1,0 +1,14 @@
+ -----------------
+ Symbol | Location
+ -------+---------
+ LIST   |   101
+ MAIN   |   10F
+ NEXT   |   10C
+ NODE1  |   104
+ NODE2  |   102
+ NODE3  |   10A
+ NODE4  |   106
+ NODE5  |   108
+ ONE    |   10E
+ VALUE  |   10D
+

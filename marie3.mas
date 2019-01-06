@@ -1,0 +1,80 @@
+/ Dustin Meckley
+/ ciss420 Computer Architecture
+/ marie3.mas
+/ Homework 4
+/ Multiplication Subroutine
+
+/ Q = A * B + C * D
+	
+	/ Preprocessor Directives:
+	ORG 100
+	
+	/ Retrieving A * B:
+	Input					/ Input value from user into AC		
+	Store A 				/ Store AC at address A. This is just to go along with the homework.
+	Store ARG0				/ Store AC at address ARG0 to be used as an reference parameter to PROC.
+
+	Input 					/ Input value from user into AC		
+	Store B					/ Store AC at address B. This is just to go along with the homework.
+	Store ARG1				/ Store AC at address ARG1 to be used as an reference parameter to PROC.
+
+	JnS PROC				/ Jump and Store to the PROC subroutine or procedure.
+	Store AB				/ Store AC at address AB.
+	
+	/ Retrieving C * D:
+	Input					/ Input value from user into AC		
+	Store C 				/ Store AC at address C. This is just to go along with the homework.
+	Store ARG0				/ Store AC at address ARG0 to be used as an reference parameter to PROC.
+
+	Input 					/ Input value from user into AC		
+	Store D					/ Store AC at address D. This is just to go along with the homework.
+	Store ARG1				/ Store AC at address ARG1 to be used as an reference parameter to PROC.
+
+	JnS PROC				/ Jump and Store to the PROC subroutine or procedure.
+	Store CD				/ Store AC at address CD. 	
+	/ Retrieving Q = A * B + C * D:	
+	Load Q					/ Load the Q value into AC.
+	Add AB					/ Add AB to the Q value in AC.
+	Add CD					/ Add CD to the Q value in AC.
+	Store Q 				/ Store the combination summation and product value into the Q address.
+	
+	/ Output Q to the Console WIndow:
+	Output					/ Output Q value to the user via console window.
+
+	/ End's the program's execution:
+	Halt					/ Halt the execution of program.
+	
+	/ Memory Address Locations:
+A,	DEC	3
+B,	DEC	6
+AB,	DEC	0
+C,	DEC	4
+D,	DEC	8
+CD,	DEC	0
+Q,	DEC	0
+ARG0,	DEC	0
+ARG1,	DEC	0
+SUM,	DEC	0
+ONE,	DEC	1
+ZERO,	DEC	0
+	
+	/ Multiplication Procedure Subroutine:
+PROC,	DEC	0
+	
+	Load ZERO				/ Load the 0 value into AC.
+	Store SUM				/ Store AC at address SUM.
+
+	L1,	Load ARG1			/ Load the ARG1 value into AC.
+		Skipcond 800			/ If AC > 0 Skip the next instruction.
+		Jump L2				/ Otherwise Jump to Label L2.
+		Subt ONE			/ Subtract 1 from ARG1 value and store in AC. 
+		Store ARG1			/ Store AC at address ARG1.
+		Load SUM 			/ Load the SUM summation temp value into AC.
+		Add ARG0			/ Add the value at address location ARG0 to AC.
+		Store SUM			/ Store AC at address SUM.		
+		Jump L1				/ Jump to Label L1 - Unconditional Condition.
+		
+	L2,	Load SUM			/ Load the SUM value into AC.
+		JumpI PROC			/ Jump Indirect back to PROC subroutine caller.
+
+	END					/ End of PROC prodecure or subroutine.

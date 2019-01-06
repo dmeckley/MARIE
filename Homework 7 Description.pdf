@@ -1,0 +1,574 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 6 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+5 0 obj
+<< /BaseFont /Symbol /Encoding /SymbolEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
+endobj
+6 0 obj
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font >>
+endobj
+7 0 obj
+<< /Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+8 0 obj
+<< /Contents 20 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+9 0 obj
+<< /Outlines 11 0 R /PageLabels 21 0 R /PageMode /UseNone /Pages 18 0 R /Type /Catalog >>
+endobj
+10 0 obj
+<< /Author () /CreationDate (D:20160402144830+06'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160402144830+06'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Homework 7) /Trapped /False >>
+endobj
+11 0 obj
+<< /Count 6 /First 12 0 R /Last 17 0 R /Type /Outlines >>
+endobj
+12 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 677.0236 0 ] /Next 13 0 R /Parent 11 0 R /Title (Step 0: Setup) >>
+endobj
+13 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 500.0236 0 ] /Next 14 0 R /Parent 11 0 R /Prev 12 0 R /Title (Step 1: PC) >>
+endobj
+14 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 120.6236 0 ] /Next 15 0 R /Parent 11 0 R /Prev 13 0 R /Title (Step 2: Instruction, Input, and Output Registers) >>
+endobj
+15 0 obj
+<< /Dest [ 8 0 R /XYZ 62.69291 765.0236 0 ] /Next 16 0 R /Parent 11 0 R /Prev 14 0 R /Title (Step 3: Connecting the ALU to the AC) >>
+endobj
+16 0 obj
+<< /Dest [ 8 0 R /XYZ 62.69291 606.0236 0 ] /Next 17 0 R /Parent 11 0 R /Prev 15 0 R /Title (Step 4: Testing) >>
+endobj
+17 0 obj
+<< /Dest [ 8 0 R /XYZ 62.69291 543.0236 0 ] /Parent 11 0 R /Prev 16 0 R /Title (Turning it in) >>
+endobj
+18 0 obj
+<< /Count 2 /Kids [ 7 0 R 8 0 R ] /Type /Pages >>
+endobj
+19 0 obj
+<< /Length 8211 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 175.4849 0 Td (Homework 7) Tj T* -175.4849 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 93.67488 0 Td (Building the MARIE Architecture: Part 3) Tj T* -93.67488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 689.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Due Date: ) Tj /F1 10 Tf (Before 11:59 p.m. on Thursday, April 14th.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 656.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Step 0: Setup) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 626.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .899398 Tw 12 TL /F1 10 Tf 0 0 0 rg (Start with your Logisim circuit from the previous assignment \(or you can use my solution\). Make a copy) Tj T* 0 Tw (and name it ) Tj /F3 10 Tf 0 0 0 rg (part_3.circ) Tj /F1 10 Tf 0 0 0 rg (. Make sure that you understand a few things:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 620.0236 cm
+Q
+q
+1 0 0 1 62.69291 620.0236 cm
+Q
+q
+1 0 0 1 62.69291 596.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 2.582126 Tw 12 TL /F1 10 Tf 0 0 0 rg (How to transfer values between registers by changing the bus signals, which I have renamed) Tj T* 0 Tw /F3 10 Tf 0 0 0 rg (Write) Tj ( ) Tj (To) Tj ( ) Tj (ID ) Tj /F1 10 Tf 0 0 0 rg (and ) Tj /F3 10 Tf 0 0 0 rg (Read) Tj ( ) Tj (From) Tj ( ) Tj (ID ) Tj /F1 10 Tf 0 0 0 rg (to remove any ambiguity.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 590.0236 cm
+Q
+q
+1 0 0 1 62.69291 566.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.978876 Tw (How to read a value from any location in memory by first writing an address to the MAR, then) Tj T* 0 Tw (reading the output from memory.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 560.0236 cm
+Q
+q
+1 0 0 1 62.69291 548.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (How to write a value to memory by first writing an address to the MAR, then writing to memory.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 542.0236 cm
+Q
+q
+1 0 0 1 62.69291 530.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (How to load values in the AC and MBR, then add or substract them using the ALU.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 530.0236 cm
+Q
+q
+1 0 0 1 62.69291 512.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (If you're confused about any of these, talk to me ASAP.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 479.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Step 1: PC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 437.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.681751 Tw (The program counter is a normal 12-bit register with one slight difference: its output can either be its) Tj T* 0 Tw 1.371567 Tw (contents \(like a normal register\), or it can be the value of the contents + 1. Consider, during the fetch) Tj T* 0 Tw (phase, we need to implement the following RTL instruction:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 403.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (PC ) Tj /F4 10 Tf 12 TL (\254) Tj /F3 10 Tf 12 TL ( PC + 1) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 371.8236 cm
+q
+BT 1 0 0 1 0 14 Tm .436988 Tw 12 TL /F1 10 Tf 0 0 0 rg (This means we need to be able to get \(PC + 1\) without using the ALU. However, for the ) Tj /F3 10 Tf 0 0 0 rg (JnS ) Tj /F1 10 Tf 0 0 0 rg (instruction,) Tj T* 0 Tw (we need this RTL instruction:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 338.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (MBR ) Tj /F4 10 Tf 12 TL (\254) Tj /F3 10 Tf 12 TL ( PC) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 306.6236 cm
+q
+BT 1 0 0 1 0 14 Tm .635642 Tw 12 TL /F1 10 Tf 0 0 0 rg (So, we need to be able to PC ) Tj /F5 10 Tf (or ) Tj /F1 10 Tf (\(PC + 1\) from the PC. Create a subcircuit called ) Tj /F3 10 Tf 0 0 0 rg (PC) Tj /F1 10 Tf 0 0 0 rg (. It should have the) Tj T* 0 Tw (following inputs and outputs:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 300.6236 cm
+Q
+q
+1 0 0 1 62.69291 300.6236 cm
+Q
+q
+1 0 0 1 62.69291 288.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (A 12-bit ) Tj /F3 10 Tf 0 0 0 rg (D ) Tj /F1 10 Tf 0 0 0 rg (input.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 282.6236 cm
+Q
+q
+1 0 0 1 62.69291 270.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (A 12-bit ) Tj /F3 10 Tf 0 0 0 rg (Q ) Tj /F1 10 Tf 0 0 0 rg (output.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 264.6236 cm
+Q
+q
+1 0 0 1 62.69291 252.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (A 1-bit ) Tj /F3 10 Tf 0 0 0 rg (en ) Tj /F1 10 Tf 0 0 0 rg (input. When 0, the PC ignores the clock; otherwise, it updates the stored value.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 246.6236 cm
+Q
+q
+1 0 0 1 62.69291 234.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (A 1-bit ) Tj /F3 10 Tf 0 0 0 rg (clock ) Tj /F1 10 Tf 0 0 0 rg (input.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 228.6236 cm
+Q
+q
+1 0 0 1 62.69291 204.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .386179 Tw 12 TL /F1 10 Tf 0 0 0 rg (A 1-bit ) Tj /F3 10 Tf 0 0 0 rg (inc ) Tj /F1 10 Tf 0 0 0 rg (input. When 0, the ) Tj /F3 10 Tf 0 0 0 rg (Q ) Tj /F1 10 Tf 0 0 0 rg (output is the last stored value; when 1, the ) Tj /F3 10 Tf 0 0 0 rg (Q ) Tj /F1 10 Tf 0 0 0 rg (output is the stored) Tj T* 0 Tw (value increased by 1.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 204.6236 cm
+Q
+q
+1 0 0 1 62.69291 174.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .249988 Tw (You can see that it looks very similar to a normal 12-bit register. To build it, you don't need anything more) Tj T* 0 Tw (than a 12-bit register, an adder, and a mux.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 132.6236 cm
+q
+BT 1 0 0 1 0 26 Tm .571807 Tw 12 TL /F1 10 Tf 0 0 0 rg (Once you've built the PC, add it to the main circuit and connect it to the bus. Add a "PC+1" input to your) Tj T* 0 Tw 1.229988 Tw (main circuit and connect it to the PC ) Tj /F3 10 Tf 0 0 0 rg (inc ) Tj /F1 10 Tf 0 0 0 rg (input. The "PC+1", "Write to ID", "Read from ID", and "ALU) Tj T* 0 Tw (Func" inputs are the control signals you will use to control exeuction of the MARIE CPU.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 99.62362 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Step 2: Instruction, Input, and Output Registers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 81.62362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Simply connect normal 16-bit registers to the bus for these three components.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+20 0 obj
+<< /Length 2655 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Step 3: Connecting the ALU to the AC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .339461 Tw (Now you can delete the extra "ALU Output" pin from your main circuit, and connect the output of the ALU) Tj T* 0 Tw (to the AC.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 684.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .196179 Tw 12 TL /F1 10 Tf 0 0 0 rg (The trick here is that the AC can read from either the bus, ) Tj /F5 10 Tf (or ) Tj /F1 10 Tf (the ALU. Whenever the ALU is producing an) Tj T* 0 Tw (output, the AC should store it. Put another way, the AC should update its value if:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .678409 Tw (The ALU function is anything other than "do nothing", or 00. If this is the case, the AC should store) Tj T* 0 Tw (the ALU output.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (If the ALU function control is 00, then the AC should obey the ) Tj /F3 10 Tf 0 0 0 rg (busif ) Tj /F1 10 Tf 0 0 0 rg (signals as usual.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+Q
+q
+1 0 0 1 62.69291 618.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Add logic to your main circuit to effect this behavior.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 585.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Step 4: Testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 555.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.401098 Tw (At this point, the datapath for MARIE is complete. You should be able to manually perform any of the) Tj T* 0 Tw (instructions in Table 4.7 of the MARIE pdf \(p. 38 of the pdf, labeled p. 232\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 522.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Turning it in) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 504.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Make a folder labeled "Homework 7" in your turn-in folder and copy in your ) Tj /F3 10 Tf 0 0 0 rg (part3_circ) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+21 0 obj
+<< /Nums [ 0 22 0 R 1 23 0 R ] >>
+endobj
+22 0 obj
+<< /S /D /St 1 >>
+endobj
+23 0 obj
+<< /S /D /St 2 >>
+endobj
+xref
+0 24
+0000000000 65535 f
+0000000075 00000 n
+0000000149 00000 n
+0000000259 00000 n
+0000000374 00000 n
+0000000482 00000 n
+0000000588 00000 n
+0000000706 00000 n
+0000000915 00000 n
+0000001124 00000 n
+0000001232 00000 n
+0000001504 00000 n
+0000001581 00000 n
+0000001698 00000 n
+0000001825 00000 n
+0000001990 00000 n
+0000002143 00000 n
+0000002275 00000 n
+0000002392 00000 n
+0000002461 00000 n
+0000010729 00000 n
+0000013441 00000 n
+0000013494 00000 n
+0000013531 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(\275\222"\277|`js@\312\363D\312\205\261\024) (\275\222"\277|`js@\312\363D\312\205\261\024)]
+ /Info 10 0 R /Root 9 0 R /Size 24 >>
+startxref
+13568
+%%EOF

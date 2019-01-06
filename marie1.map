@@ -1,0 +1,14 @@
+ -----------------
+ Symbol | Location
+ -------+---------
+ Elif   |   104
+ Else   |   10D
+ Endif  |   115
+ If     |   100
+ TWELVE |   11D
+ TWENTY |   11E
+ Then   |   111
+ X      |   11A
+ Y      |   11B
+ Z      |   11C
+

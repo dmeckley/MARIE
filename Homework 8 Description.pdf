@@ -1,0 +1,1465 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 6 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+5 0 obj
+<< /BaseFont /Symbol /Encoding /SymbolEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
+endobj
+6 0 obj
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font >>
+endobj
+7 0 obj
+<< /Contents 26 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 25 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+8 0 obj
+<< /Contents 27 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 25 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+9 0 obj
+<< /Contents 28 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 25 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+10 0 obj
+<< /Contents 29 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 25 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+11 0 obj
+<< /Outlines 13 0 R /PageLabels 30 0 R /PageMode /UseNone /Pages 25 0 R /Type /Catalog >>
+endobj
+12 0 obj
+<< /Author () /CreationDate (D:20160402145747+06'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160402145747+06'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Homework 8) /Trapped /False >>
+endobj
+13 0 obj
+<< /Count 13 /First 14 0 R /Last 24 0 R /Type /Outlines >>
+endobj
+14 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 677.0236 0 ] /Next 15 0 R /Parent 13 0 R /Title (Setup and Overview) >>
+endobj
+15 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 482.0236 0 ] /Next 16 0 R /Parent 13 0 R /Prev 14 0 R /Title (Placing the control logic) >>
+endobj
+16 0 obj
+<< /Count 4 /Dest [ 7 0 R /XYZ 62.69291 311.0236 0 ] /First 17 0 R /Last 20 0 R /Next 21 0 R /Parent 13 0 R 
+  /Prev 15 0 R /Title (Inside the control logic) >>
+endobj
+17 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 152.0236 0 ] /Next 18 0 R /Parent 16 0 R /Title (The fetch micro-op ROM) >>
+endobj
+18 0 obj
+<< /Dest [ 8 0 R /XYZ 62.69291 501.0236 0 ] /Next 19 0 R /Parent 16 0 R /Prev 17 0 R /Title (The fetch/execute flip-flop) >>
+endobj
+19 0 obj
+<< /Dest [ 8 0 R /XYZ 62.69291 327.0236 0 ] /Next 20 0 R /Parent 16 0 R /Prev 18 0 R /Title (The instruction micro-op ROM) >>
+endobj
+20 0 obj
+<< /Dest [ 9 0 R /XYZ 62.69291 651.0236 0 ] /Parent 16 0 R /Prev 19 0 R /Title (Jump instruction) >>
+endobj
+21 0 obj
+<< /Count 2 /Dest [ 9 0 R /XYZ 62.69291 435.8236 0 ] /First 22 0 R /Last 23 0 R /Next 24 0 R /Parent 13 0 R 
+  /Prev 16 0 R /Title (Testing) >>
+endobj
+22 0 obj
+<< /Dest [ 9 0 R /XYZ 62.69291 372.8236 0 ] /Next 23 0 R /Parent 21 0 R /Title (Program 1: Double an input) >>
+endobj
+23 0 obj
+<< /Dest [ 9 0 R /XYZ 62.69291 198.8236 0 ] /Parent 21 0 R /Prev 22 0 R /Title (Program 2: Loops) >>
+endobj
+24 0 obj
+<< /Dest [ 10 0 R /XYZ 62.69291 765.0236 0 ] /Parent 13 0 R /Prev 21 0 R /Title (Turning it in) >>
+endobj
+25 0 obj
+<< /Count 4 /Kids [ 7 0 R 8 0 R 9 0 R 10 0 R ] /Type /Pages >>
+endobj
+26 0 obj
+<< /Length 8315 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 175.4849 0 Td (Homework 8) Tj T* -175.4849 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 93.67488 0 Td (Building the MARIE Architecture: Part 4) Tj T* -93.67488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 689.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Due Date: ) Tj /F1 10 Tf (Before class on Thursday, April 28th.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 656.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Setup and Overview) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 626.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .899398 Tw 12 TL /F1 10 Tf 0 0 0 rg (Start with your Logisim circuit from the previous assignment \(or you can use my solution\). Make a copy) Tj T* 0 Tw (and name it ) Tj /F3 10 Tf 0 0 0 rg (part_4.circ) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 596.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .523876 Tw (In Part 4, you will build MARIE's control logic. It generates the control signals that drive the datapath you) Tj T* 0 Tw (completed in Part 3:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 590.0236 cm
+Q
+q
+1 0 0 1 62.69291 590.0236 cm
+Q
+q
+1 0 0 1 62.69291 578.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A 3-bit signal that controls which component is writing to the bus) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 572.0236 cm
+Q
+q
+1 0 0 1 62.69291 560.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A 3-bit signal that controls which component is reading from the bus) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 554.0236 cm
+Q
+q
+1 0 0 1 62.69291 542.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A 2-bit signal that controls ALU function) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 536.0236 cm
+Q
+q
+1 0 0 1 62.69291 524.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A 1-bit signal that controls PC incrementing) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 524.0236 cm
+Q
+q
+1 0 0 1 62.69291 494.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .809983 Tw (The control logic will alternate between generating the micro-ops to fetch an instruction, then generating) Tj T* 0 Tw (the ops needed to execute that instruction.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 461.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Placing the control logic) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 395.0236 cm
+q
+BT 1 0 0 1 0 50 Tm .610697 Tw 12 TL /F1 10 Tf 0 0 0 rg (Copy the ) Tj /F3 10 Tf 0 0 0 rg (control.circ ) Tj /F1 10 Tf 0 0 0 rg (file into the same directory as your ) Tj /F3 10 Tf 0 0 0 rg (part_4.circ) Tj /F1 10 Tf 0 0 0 rg (. From within your solution,) Tj T* 0 Tw 1.002651 Tw (select "Project ) Tj /F4 10 Tf 12 TL (\256) Tj /F1 10 Tf 12 TL ( Load Library ) Tj /F4 10 Tf 12 TL (\256) Tj /F1 10 Tf 12 TL ( Logisim Library." Select the ) Tj /F3 10 Tf 0 0 0 rg (control.circ ) Tj /F1 10 Tf 0 0 0 rg (file. A "control" folder is) Tj T* 0 Tw .85936 Tw (added to your parts library, with the ) Tj /F3 10 Tf 0 0 0 rg (control ) Tj /F1 10 Tf 0 0 0 rg (circuit inside. Note that the ) Tj /F3 10 Tf 0 0 0 rg (control ) Tj /F1 10 Tf 0 0 0 rg (circuit is read-only) Tj T* 0 Tw .06332 Tw (from inside your project, but when you edit it the ) Tj /F3 10 Tf 0 0 0 rg (control.circ ) Tj /F1 10 Tf 0 0 0 rg (file, you should see the changes in your) Tj T* 0 Tw (project automatically.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 353.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .763984 Tw 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F3 10 Tf 0 0 0 rg (control ) Tj /F1 10 Tf 0 0 0 rg (subcircuit has four outputs and three inputs. Add a ) Tj /F3 10 Tf 0 0 0 rg (control ) Tj /F1 10 Tf 0 0 0 rg (instance, then connect the) Tj T* 0 Tw .611235 Tw /F3 10 Tf 0 0 0 rg (Read) Tj ( ) Tj (from) Tj ( ) Tj (ID) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F3 10 Tf 0 0 0 rg (Write) Tj ( ) Tj (to) Tj ( ) Tj (ID) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F3 10 Tf 0 0 0 rg (ALU) Tj ( ) Tj (function) Tj /F1 10 Tf 0 0 0 rg (, and ) Tj /F3 10 Tf 0 0 0 rg (PC+1 ) Tj /F1 10 Tf 0 0 0 rg (outputs to your MARIE CPU. Connect the) Tj T* 0 Tw (output of the ) Tj /F3 10 Tf 0 0 0 rg (IR ) Tj /F1 10 Tf 0 0 0 rg (to the ) Tj /F3 10 Tf 0 0 0 rg (instruction ) Tj /F1 10 Tf 0 0 0 rg (input of ) Tj /F3 10 Tf 0 0 0 rg (control) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 323.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.698735 Tw 12 TL /F1 10 Tf 0 0 0 rg (The other two inputs to ) Tj /F3 10 Tf 0 0 0 rg (control ) Tj /F1 10 Tf 0 0 0 rg (are ) Tj /F3 10 Tf 0 0 0 rg (AC) Tj ( ) Tj (negative ) Tj /F1 10 Tf 0 0 0 rg (and ) Tj /F3 10 Tf 0 0 0 rg (AC) Tj ( ) Tj (zero) Tj /F1 10 Tf 0 0 0 rg (. Add additional logic to support) Tj T* 0 Tw (these inputs \(e.g., ) Tj /F3 10 Tf 0 0 0 rg (AC) Tj ( ) Tj (negative ) Tj /F1 10 Tf 0 0 0 rg (should be set to ) Tj /F5 10 Tf 0 0 0 rg (1 ) Tj /F1 10 Tf 0 0 0 rg (if the value in the ) Tj /F5 10 Tf 0 0 0 rg (AC ) Tj /F1 10 Tf 0 0 0 rg (register is negative.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 290.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Inside the control logic) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 272.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The control logic has four main parts:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 266.0236 cm
+Q
+q
+1 0 0 1 62.69291 266.0236 cm
+Q
+q
+1 0 0 1 62.69291 242.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .43284 Tw (A "Fetch Micro-ops" ROM which holds the micro-operations to fetch an instruction. I've already filled) Tj T* 0 Tw (it in with the correct data.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 236.0236 cm
+Q
+q
+1 0 0 1 62.69291 212.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.497318 Tw (An "Instruction Micro-ops" ROM, which you will fill in to create the CPU microprogram: all the) Tj T* 0 Tw (micro-ops for all instructions.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 206.0236 cm
+Q
+q
+1 0 0 1 62.69291 194.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A "step" counter, which counts which micro-op you're currently executing.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 188.0236 cm
+Q
+q
+1 0 0 1 62.69291 164.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.707209 Tw (A "fetch/execute" flip-flop, which is 0 if the CPU is currently fetching an instruction, and 1 if it is) Tj T* 0 Tw (currently executing.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 164.0236 cm
+Q
+q
+1 0 0 1 62.69291 134.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (The fetch micro-op ROM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 92.02362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.701318 Tw (The table below shows the micro-ops to fetch an instruction. There are four columns "Read", "Write",) Tj T* 0 Tw 2.088651 Tw ("ALU", and "PC+1", which show the control bits needed for each micro-op. There are two additional) Tj T* 0 Tw (columns which I'll describe later.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 86.02362 cm
+Q
+ 
+endstream
+endobj
+27 0 obj
+<< /Length 13247 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 693.0236 cm
+1 1 1 rg
+n 0 72 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 54 469.8898 -18 re f*
+1 1 1 rg
+n 0 36 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 469.8898 -18 re f*
+.960784 .960784 .862745 rg
+n 0 72 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 57 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 38.79889 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 9.114447 0 Td (Step) Tj T* -9.114447 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.79889 57 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 140.3967 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 49.64334 0 Td (Micro-Op) Tj T* -49.64334 0 Td ET
+Q
+Q
+q
+1 0 0 1 209.1956 57 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 26.09917 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.269585 0 Td (F/E) Tj T* -5.269585 0 Td ET
+Q
+Q
+q
+1 0 0 1 247.2947 57 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 13.39945 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 3.919723 0 Td (If) Tj T* -3.919723 0 Td ET
+Q
+Q
+q
+1 0 0 1 272.6942 57 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 38.79889 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 6.754447 0 Td (PC+1) Tj T* -6.754447 0 Td ET
+Q
+Q
+q
+1 0 0 1 323.4931 57 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 38.79889 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 7.449447 0 Td (Read) Tj T* -7.449447 0 Td ET
+Q
+Q
+q
+1 0 0 1 374.292 57 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 51.49862 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 14.08431 0 Td (Write) Tj T* -14.08431 0 Td ET
+Q
+Q
+q
+1 0 0 1 437.7906 57 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 26.09917 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 3.324585 0 Td (ALU) Tj T* -3.324585 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.79889 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (MAR ) Tj /F4 10 Tf 12 TL (\254) Tj /F1 10 Tf 12 TL ( PC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 209.1956 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 247.2947 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 272.6942 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 323.4931 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (010) Tj T* ET
+Q
+Q
+q
+1 0 0 1 374.292 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (001) Tj T* ET
+Q
+Q
+q
+1 0 0 1 437.7906 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.79889 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (IR ) Tj /F4 10 Tf 12 TL (\254) Tj /F1 10 Tf 12 TL ( M[MAR]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 209.1956 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 247.2947 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 272.6942 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 323.4931 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 374.292 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (111) Tj T* ET
+Q
+Q
+q
+1 0 0 1 437.7906 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.79889 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (PC ) Tj /F4 10 Tf 12 TL (\254) Tj /F1 10 Tf 12 TL ( PC + 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 209.1956 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 247.2947 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 272.6942 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 323.4931 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (010) Tj T* ET
+Q
+Q
+q
+1 0 0 1 374.292 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (010) Tj T* ET
+Q
+Q
+q
+1 0 0 1 437.7906 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (00) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 54 m 469.8898 54 l S
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 50.79889 0 m 50.79889 72 l S
+n 203.1956 0 m 203.1956 72 l S
+n 241.2947 0 m 241.2947 72 l S
+n 266.6942 0 m 266.6942 72 l S
+n 317.4931 0 m 317.4931 72 l S
+n 368.292 0 m 368.292 72 l S
+n 431.7906 0 m 431.7906 72 l S
+n 0 72 m 469.8898 72 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 72 l S
+n 469.8898 0 m 469.8898 72 l S
+Q
+Q
+q
+1 0 0 1 62.69291 693.0236 cm
+Q
+q
+1 0 0 1 62.69291 663.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .249431 Tw 12 TL /F1 10 Tf 0 0 0 rg (If you reset the simulation, you will see that the ) Tj /F3 10 Tf 0 0 0 rg (control ) Tj /F1 10 Tf 0 0 0 rg (is generating the first fetch micro-op: read from) Tj T* 0 Tw (the ) Tj /F3 10 Tf 0 0 0 rg (PC) Tj /F1 10 Tf 0 0 0 rg (, write to the ) Tj /F3 10 Tf 0 0 0 rg (MAR) Tj /F1 10 Tf 0 0 0 rg (. Pulsing the clock a few times will execute the rest of the fetch cycle.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .804274 Tw (If you squint at the table above, it like a memory. If we concatenate all the control bits, we see an array) Tj T* 0 Tw (that looks like:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 627.0236 cm
+Q
+q
+1 0 0 1 62.69291 555.0236 cm
+1 1 1 rg
+n 0 72 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 54 469.8898 -18 re f*
+1 1 1 rg
+n 0 36 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 469.8898 -18 re f*
+.960784 .960784 .862745 rg
+n 0 72 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 57 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 94.10414 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 28.71207 0 Td (Address) Tj T* -28.71207 0 Td ET
+Q
+Q
+q
+1 0 0 1 112.1041 57 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 351.7856 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 165.3328 0 Td (Data) Tj T* -165.3328 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 112.1041 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (000 0100 0100 \(hex 044\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 112.1041 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (000 0001 1100 \(hex 01C\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 112.1041 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (101 0100 1000 \(hex 548\)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 54 m 469.8898 54 l S
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 106.1041 0 m 106.1041 72 l S
+n 0 72 m 469.8898 72 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 72 l S
+n 469.8898 0 m 469.8898 72 l S
+Q
+Q
+q
+1 0 0 1 62.69291 555.0236 cm
+Q
+q
+1 0 0 1 62.69291 513.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.42061 Tw 12 TL /F1 10 Tf 0 0 0 rg (Inside ) Tj /F3 10 Tf 0 0 0 rg (control) Tj /F1 10 Tf 0 0 0 rg (, there is a ROM with these memory contents. The ) Tj /F3 10 Tf 0 0 0 rg (step ) Tj /F1 10 Tf 0 0 0 rg (counter acts as an address) Tj T* 0 Tw .85332 Tw (register for this ROM, starting at address ) Tj /F3 10 Tf 0 0 0 rg (0) Tj /F1 10 Tf 0 0 0 rg (. The contents of the ROM are split into the individual output) Tj T* 0 Tw (signals.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 483.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (The fetch/execute flip-flop) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 441.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .753876 Tw 12 TL /F1 10 Tf 0 0 0 rg (If you reset the simulation and watch several clock cycles, you can see the ) Tj /F3 10 Tf 0 0 0 rg (step ) Tj /F1 10 Tf 0 0 0 rg (counter and the fetch) Tj T* 0 Tw .716654 Tw (micro-op ROM generating an instruction fetch. On the third op, the bit labeled ) Tj /F3 10 Tf 0 0 0 rg (F/E ) Tj /F1 10 Tf 0 0 0 rg (in the table above is) Tj T* 0 Tw (high. There are two results:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 435.0236 cm
+Q
+q
+1 0 0 1 62.69291 435.0236 cm
+Q
+q
+1 0 0 1 62.69291 399.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm .36561 Tw 12 TL /F1 10 Tf 0 0 0 rg (The flip-flop labeled ) Tj /F3 10 Tf 0 0 0 rg (Fetch/Execute ) Tj /F1 10 Tf 0 0 0 rg (toggles from ) Tj /F3 10 Tf 0 0 0 rg (0 ) Tj /F1 10 Tf 0 0 0 rg (to ) Tj /F3 10 Tf 0 0 0 rg (1) Tj /F1 10 Tf 0 0 0 rg (. The output of this flip-flop drives a mux;) Tj T* 0 Tw .20284 Tw (after toggling, the mux now selects micro-ops from the other control ROM, which contains instruction) Tj T* 0 Tw (ops.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 393.0236 cm
+Q
+q
+1 0 0 1 62.69291 381.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F3 10 Tf 0 0 0 rg (step ) Tj /F1 10 Tf 0 0 0 rg (counter is reset to ) Tj /F3 10 Tf 0 0 0 rg (0) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 381.0236 cm
+Q
+q
+1 0 0 1 62.69291 339.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.001807 Tw 12 TL /F1 10 Tf 0 0 0 rg (The purpose of the ) Tj /F3 10 Tf 0 0 0 rg (F/E ) Tj /F1 10 Tf 0 0 0 rg (bit is now clear: set it to ) Tj /F3 10 Tf 0 0 0 rg (1 ) Tj /F1 10 Tf 0 0 0 rg (on the last micro-op of instruction fetch, and it will) Tj T* 0 Tw .63528 Tw (begin executing instruction micro-ops. It should also be set to 1 on the last micro-op of every instruction,) Tj T* 0 Tw (to start the next instruction fetch.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 309.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (The instruction micro-op ROM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 267.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .041567 Tw 12 TL /F1 10 Tf 0 0 0 rg (This ROM has six address bits, rather than the two of the fetch ROM. Take a look at ) Tj /F5 10 Tf (instruction_ops.pdf ) Tj /F1 10 Tf (to) Tj T* 0 Tw 1.517045 Tw (see why: the address in for this ROM is generated by concatenating the 4-bit opcode with the two-bit) Tj T* 0 Tw /F3 10 Tf 0 0 0 rg (step ) Tj /F1 10 Tf 0 0 0 rg (counter output.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 237.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.182619 Tw (I filled in a few examples. Take a look at the load instruction, which can be accomplished in two steps) Tj T* 0 Tw (\(remember, X is just shorthand for IR[11:0]\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 231.0236 cm
+Q
+q
+1 0 0 1 62.69291 231.0236 cm
+Q
+q
+1 0 0 1 62.69291 219.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (To effect ) Tj /F3 10 Tf 0 0 0 rg (MAR) Tj ( ) Tj /F4 10 Tf 12 TL (\254) Tj /F3 10 Tf 12 TL ( ) Tj (X) Tj /F1 10 Tf 0 0 0 rg (, we read from the IR \(111\) and write to the MAR \(001\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 213.0236 cm
+Q
+q
+1 0 0 1 62.69291 189.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .80104 Tw 12 TL /F1 10 Tf 0 0 0 rg (To effect ) Tj /F3 10 Tf 0 0 0 rg (AC) Tj ( ) Tj /F4 10 Tf 12 TL (\254) Tj /F3 10 Tf 12 TL ( ) Tj (M[MAR]) Tj /F1 10 Tf 0 0 0 rg (, we read from memory \(000\) and write to the AC \(100\). Since this is last) Tj T* 0 Tw (last micro-op, the ) Tj /F3 10 Tf 0 0 0 rg (F/E ) Tj /F1 10 Tf 0 0 0 rg (bit is set, as well.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 183.0236 cm
+Q
+q
+1 0 0 1 62.69291 125.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 42.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 42.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (These two micro-ops get filled into memory:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 445.6898 36 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F3 10 Tf 12 TL (000100:  000 1110 0100  \(hex 0E4\)) Tj T* (000101:  100 0001 0000  \(hex 410\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 119.8236 cm
+Q
+q
+1 0 0 1 62.69291 83.82362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm .672093 Tw 12 TL /F1 10 Tf 0 0 0 rg (Since we only need a step 00 and step 01, we only fill in locations 000100 and 000101 in memory.) Tj T* 0 Tw .259461 Tw (We can leave the next two locations uninitialized. Since the ) Tj /F3 10 Tf 0 0 0 rg (F/E ) Tj /F1 10 Tf 0 0 0 rg (bit was set in step 01, the CPU will) Tj T* 0 Tw (never read these locations.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 83.82362 cm
+Q
+ 
+endstream
+endobj
+28 0 obj
+<< /Length 7066 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .07332 Tw (You should figure out the micro-ops needed for each instruction and write them in the table. Figure out the) Tj T* 0 Tw (associated control bits, and write them down as well. Some hints:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 735.0236 cm
+Q
+q
+1 0 0 1 62.69291 735.0236 cm
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.389985 Tw (You can do the instructions with fewer micro-ops than the book uses; you never need more than) Tj T* 0 Tw (four.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 705.0236 cm
+Q
+q
+1 0 0 1 62.69291 693.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (You can ) Tj /F3 10 Tf 0 0 0 rg (halt ) Tj /F1 10 Tf 0 0 0 rg (by simply never fetching another instruction.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 693.0236 cm
+Q
+q
+1 0 0 1 62.69291 663.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .241318 Tw (You should fill in the instruction micro-op ROM according to your table of micro-operations. Right-click the) Tj T* 0 Tw (ROM and click "edit contents..." to enter your data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Jump instruction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 591.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 3.053318 Tw 12 TL /F1 10 Tf 0 0 0 rg (With the setup described above, you can microcode all of the MARIE instrutions except one: the) Tj T* 0 Tw .831654 Tw /F3 10 Tf 0 0 0 rg (skipcond ) Tj /F1 10 Tf 0 0 0 rg (instruction. This is where the ) Tj /F3 10 Tf 0 0 0 rg (if ) Tj /F1 10 Tf 0 0 0 rg (bit is used\227you should only set it to ) Tj /F3 10 Tf 0 0 0 rg (1 ) Tj /F1 10 Tf 0 0 0 rg (for the ) Tj /F3 10 Tf 0 0 0 rg (skipcond) Tj T* 0 Tw /F1 10 Tf 0 0 0 rg (instruction.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 573.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (This puts an extra condition between the ) Tj /F3 10 Tf 0 0 0 rg (control ) Tj /F1 10 Tf 0 0 0 rg (ROMs and output. In pseudocode, it looks like:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 467.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 96 re B*
+Q
+q
+BT 1 0 0 1 0 74 Tm 12 TL /F3 10 Tf 0 0 0 rg (jumpneg = \(IR[11\22710] == 00 and AC ) Tj (<) Tj ( 0\)) Tj T* (jumpeq  = \(IR[11\22710] == 01 and AC == 0\)) Tj T* (jumppos = \(IR[11\22710] == 10 and AC ) Tj (>) Tj ( 0\)) Tj T* (if \(ifbit and \(jumpneg or jumpeq or jumppos\)\):) Tj T* (    pc = pc + 1) Tj T* (else) Tj T* (    do nothing) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 447.8236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Add additional logic to the ) Tj /F3 10 Tf 0 0 0 rg (control ) Tj /F1 10 Tf 0 0 0 rg (circuit to effect this behavior.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 414.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 384.8236 cm
+q
+BT 1 0 0 1 0 14 Tm .293318 Tw 12 TL /F1 10 Tf 0 0 0 rg (You find two programs in the gdrive, ) Tj /F3 10 Tf 0 0 0 rg (program1.data ) Tj /F1 10 Tf 0 0 0 rg (and ) Tj /F3 10 Tf 0 0 0 rg (program2.data) Tj /F1 10 Tf 0 0 0 rg (. You can open them with a) Tj T* 0 Tw (text editor to see the machine code \(with comments\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 354.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Program 1: Double an input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 336.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (To run the program,) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 330.8236 cm
+Q
+q
+1 0 0 1 62.69291 330.8236 cm
+Q
+q
+1 0 0 1 62.69291 318.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Reset your simulation \(control/command R\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 312.8236 cm
+Q
+q
+1 0 0 1 62.69291 300.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Right-click the RAM, select "load image," and choose ) Tj /F3 10 Tf 0 0 0 rg (program1.data) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 294.8236 cm
+Q
+q
+1 0 0 1 62.69291 282.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Change the value in the ) Tj /F3 10 Tf 0 0 0 rg (input ) Tj /F1 10 Tf 0 0 0 rg (register to any number.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 276.8236 cm
+Q
+q
+1 0 0 1 62.69291 240.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.87811 Tw (Use control/command T to toggle the clock. For the first three clock cycles, you should see the) Tj T* 0 Tw .667318 Tw (INPUT instruction being fetched. After the fourth clock cycle, you should see the input value copied) Tj T* 0 Tw (into the accumulator register.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 234.8236 cm
+Q
+q
+1 0 0 1 62.69291 210.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (5.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .69436 Tw 12 TL /F1 10 Tf 0 0 0 rg (Keep running the simulator. The program should end up finishing with double the input value in the) Tj T* 0 Tw /F3 10 Tf 0 0 0 rg (output ) Tj /F1 10 Tf 0 0 0 rg (register.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 210.8236 cm
+Q
+q
+1 0 0 1 62.69291 180.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Program 2: Loops) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 150.8236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.613735 Tw 12 TL /F1 10 Tf 0 0 0 rg (This program multiplies two numbers by using repeated addition. The values in variables ) Tj /F5 10 Tf (A ) Tj /F1 10 Tf (and ) Tj /F5 10 Tf (B ) Tj /F1 10 Tf (\(at) Tj T* 0 Tw (locations 0xe and 0xf\) are multiplied and the result is written to the output register.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 120.8236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.094535 Tw 12 TL /F1 10 Tf 0 0 0 rg (Run the program as above. By default, ) Tj /F5 10 Tf (A ) Tj /F1 10 Tf (and ) Tj /F5 10 Tf (B ) Tj /F1 10 Tf (are 3 and 4, so you should see 12 \(0xc\) in the output) Tj T* 0 Tw (register when the program halts.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+29 0 obj
+<< /Length 1615 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Turning it in) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .52561 Tw 12 TL /F1 10 Tf 0 0 0 rg (Make a folder labeled "Homework 8" in your turn-in folder and copy in your ) Tj /F3 10 Tf 0 0 0 rg (part_4.circ ) Tj /F1 10 Tf 0 0 0 rg (and modified) Tj T* 0 Tw /F3 10 Tf 0 0 0 rg (control.circ) Tj /F1 10 Tf 0 0 0 rg (. I will test it by:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 708.0236 cm
+Q
+q
+1 0 0 1 62.69291 708.0236 cm
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Resetting the simulation.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 690.0236 cm
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Right-clicking the RAM and loading a program.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 672.0236 cm
+Q
+q
+1 0 0 1 62.69291 660.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Running the program and checking the results.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 660.0236 cm
+Q
+ 
+endstream
+endobj
+30 0 obj
+<< /Nums [ 0 31 0 R 1 32 0 R 2 33 0 R 3 34 0 R ] >>
+endobj
+31 0 obj
+<< /S /D /St 1 >>
+endobj
+32 0 obj
+<< /S /D /St 2 >>
+endobj
+33 0 obj
+<< /S /D /St 3 >>
+endobj
+34 0 obj
+<< /S /D /St 4 >>
+endobj
+xref
+0 35
+0000000000 65535 f
+0000000075 00000 n
+0000000149 00000 n
+0000000259 00000 n
+0000000374 00000 n
+0000000482 00000 n
+0000000588 00000 n
+0000000706 00000 n
+0000000915 00000 n
+0000001124 00000 n
+0000001333 00000 n
+0000001543 00000 n
+0000001652 00000 n
+0000001924 00000 n
+0000002002 00000 n
+0000002124 00000 n
+0000002266 00000 n
+0000002447 00000 n
+0000002573 00000 n
+0000002717 00000 n
+0000002862 00000 n
+0000002982 00000 n
+0000003146 00000 n
+0000003276 00000 n
+0000003396 00000 n
+0000003514 00000 n
+0000003596 00000 n
+0000011968 00000 n
+0000025273 00000 n
+0000032396 00000 n
+0000034068 00000 n
+0000034139 00000 n
+0000034176 00000 n
+0000034213 00000 n
+0000034250 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(p\354\240-\204\255\376%#3<Q%\030$\333) (p\354\240-\204\255\376%#3<Q%\030$\333)]
+ /Info 12 0 R /Root 11 0 R /Size 35 >>
+startxref
+34287
+%%EOF

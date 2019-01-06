@@ -1,0 +1,115 @@
+     Assembly listing for: marie4.mas
+                Assembled: Fri Mar 04 22:46:33 CST 2016
+
+         |                          / Dustin Meckley
+         |                          / ciss420 Computer Architecture
+         |                          / marie4.mas
+         |                          / Homework 4
+         |                          / Linked List
+         |                          
+         |         ORG 100           
+         |                          
+         |                          / Jump past the definition of the list
+         |                          / to the program below.
+         |                          
+100 910F |         JUMP MAIN         
+         |                          
+         |                          / This is the pointer with the address
+         |                          / of the first node of the list.
+         |                          
+101 0104 |  LIST   HEX 0104          
+         |                          
+         |                          / The definition of the linked list nodes
+         |                          
+102 010A |  NODE2  HEX 010A         / Pointer to node 3
+103 0032 |         HEX 0032         / Data of node 2
+         |                          
+104 0102 |  NODE1  HEX 0102         / Pointer to node 2
+105 0031 |         HEX 0031         / Data of node 1
+         |                          
+106 0108 |  NODE4  HEX 0108         / Pointer to node 5
+107 0034 |         HEX 0034         / Data of node 4
+         |                          
+108 0000 |  NODE5  HEX 0000         / Pointer to NULL, end of list
+109 0035 |         HEX 0035         / Data of node 5
+         |                          
+10A 0106 |  NODE3  HEX 0106         / Pointer to node 4
+10B 0033 |         HEX 0033         / Data of node 2
+         |                          
+10C 0200 |  NEXT   HEX 0200          
+10D 0000 |  VALUE  DEC 0             
+10E 0001 |  ONE    DEC 1             
+         |                          
+         |                          / You should write your program below this line.
+         |                          
+10F 1101 |  MAIN   LOAD LIST         
+110 210C |         STORE NEXT        
+111 6000 |         OUTPUT            
+112 310E |         ADD ONE           
+113 210D |         STORE VALUE       
+114 D10D |         LOADI VALUE       
+115 6000 |         OUTPUT            
+         |                          
+116 1104 |         LOAD NODE1        
+117 210C |         STORE NEXT        
+118 6000 |         OUTPUT            
+119 310E |         ADD ONE           
+11A 210D |         STORE VALUE       
+11B D10D |         LOADI VALUE       
+11C 6000 |         OUTPUT            
+         |                          
+11D 1102 |         LOAD NODE2        
+11E 210C |         STORE NEXT        
+11F 6000 |         OUTPUT            
+120 310E |         ADD ONE           
+121 210D |         STORE VALUE       
+122 D10D |         LOADI VALUE       
+123 6000 |         OUTPUT            
+         |                          
+124 110A |         LOAD NODE3        
+125 210C |         STORE NEXT        
+126 6000 |         OUTPUT            
+127 310E |         ADD ONE           
+128 210D |         STORE VALUE       
+129 D10D |         LOADI VALUE       
+12A 6000 |         OUTPUT            
+         |                          
+12B 1106 |         LOAD NODE4        
+12C 210C |         STORE NEXT        
+12D 6000 |         OUTPUT            
+12E 310E |         ADD ONE           
+12F 210D |         STORE VALUE       
+130 D10D |         LOADI VALUE       
+131 6000 |         OUTPUT            
+         |                          
+132 1108 |         LOAD NODE5        
+133 210C |         STORE NEXT        
+134 6000 |         OUTPUT            
+135 310E |         ADD ONE           
+136 210D |         STORE VALUE       
+137 D10D |         LOADI VALUE       
+138 6000 |         OUTPUT            
+         |                          
+139 7000 |         HALT              
+         |                          
+
+Assembly successful.
+
+         SYMBOL TABLE
+         --------------------------------------------------
+          Symbol | Defined | References 
+         --------+---------+-------------------------------
+          LIST   |   101   | 10F
+          MAIN   |   10F   | 100
+          NEXT   |   10C   | 110, 117, 11E, 125, 12C, 133
+          NODE1  |   104   | 116
+          NODE2  |   102   | 11D
+          NODE3  |   10A   | 124
+          NODE4  |   106   | 12B
+          NODE5  |   108   | 132
+          ONE    |   10E   | 112, 119, 120, 127, 12E, 135
+          VALUE  |   10D   | 113, 114, 11A, 11B, 121, 122, 
+                 |         | 128, 129, 12F, 130, 136, 137
+         --------------------------------------------------
+
+

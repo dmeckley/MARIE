@@ -1,0 +1,53 @@
+/ Dustin Meckley
+/ ciss420 Computer Architecture
+/ marie2.mas
+/ Homework 4
+/ While
+
+/ X = 10
+/ Y = 20
+/ Z = 0
+/ while x > 0 and y < 25:
+/	Z += X + Y
+/	X -= 1
+/	Y += 1
+
+		ORG 100
+	
+
+L1,		Load X			/ Load the X value into AC.
+		Skipcond 800		/ If AC > 0, skip next instruction.
+		Jump End		/ Jump to End Label if AC <= 0.
+		Jump L2			/ Jump to L2 Label if AC > 0.
+		
+
+L2,		Load Y			/ Load the Y value into AC.
+		Subt TWENTY-FIVE	/ Subtract 25 from Y value and store in AC.
+		Store TEMP		/ Store AC at address TEMP.
+		Skipcond 000		/ If AC < 0, skip next instruction.
+		Jump End		/ Jump to End Label if AC >= 0.
+		Jump L3			/ Jump to L3 Label if AC < 0.
+			
+L3,		Load Z			/ Load the Z value into AC.
+		Add X 			/ Add the X value to AC.
+		Add Y			/ Add the Y value to AC.
+		Store Z			/ Store AC at address Z.
+
+		Load X			/ Load the X value into AC.
+		Subt ONE		/ Subtract 1 from X value and store in AC.
+		Store X			/ Store AC at address X.
+
+		Load Y			/ Load the Y value into AC.
+		Add ONE			/ Subtract 1 from Y value and store in AC.
+		Store Y			/ Store AC at address Y.
+
+		Jump L1			/ Unconditional Jump to L1 Label.
+			
+End,		Halt
+
+TEMP,		DEC	0
+X,		DEC	10
+Y,		DEC	20
+Z,		DEC	0
+ONE,		DEC	1
+TWENTY-FIVE,	DEC	25

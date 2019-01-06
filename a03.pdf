@@ -1,0 +1,466 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+5 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
+endobj
+6 0 obj
+<< /Contents 14 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 13 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+7 0 obj
+<< /Outlines 9 0 R /PageLabels 15 0 R /PageMode /UseNone /Pages 13 0 R /Type /Catalog >>
+endobj
+8 0 obj
+<< /Author () /CreationDate (D:20160202093025+06'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title (Homework 3: Sequential Logic) >>
+endobj
+9 0 obj
+<< /Count 3 /First 10 0 R /Last 12 0 R /Type /Outlines >>
+endobj
+10 0 obj
+<< /Dest [ 6 0 R /XYZ 62.69291 677.0236 0 ] /Next 11 0 R /Parent 9 0 R /Title (Part One: The Counter) >>
+endobj
+11 0 obj
+<< /Dest [ 6 0 R /XYZ 62.69291 458.0236 0 ] /Next 12 0 R /Parent 9 0 R /Prev 10 0 R /Title (Part Two: The Game Logic) >>
+endobj
+12 0 obj
+<< /Dest [ 6 0 R /XYZ 62.69291 341.0236 0 ] /Parent 9 0 R /Prev 11 0 R /Title (Turning it in) >>
+endobj
+13 0 obj
+<< /Count 1 /Kids [ 6 0 R ] /Type /Pages >>
+endobj
+14 0 obj
+<< /Length 7085 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 89.35488 0 Td (Homework 3: Sequential Logic) Tj T* -89.35488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 719.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Due Date: ) Tj /F1 10 Tf (Before class on February 9th.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 689.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .767633 Tw (You will create two circuits for this homework: a modulo 5/modulo 8 counter, and a simple game control) Tj T* 0 Tw (logic circuit.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 656.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Part One: The Counter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 626.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.51061 Tw 12 TL /F1 10 Tf 0 0 0 rg (Create a Logisim file named ) Tj /F3 10 Tf (counter.circ) Tj /F1 10 Tf (. In this circuit, use three JK flip-flops to implement a modulo) Tj T* 0 Tw (5/modulo 8 counter. This circuit has an input labeled COUNT and a 3-bit output labeled Q:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 620.0236 cm
+Q
+q
+1 0 0 1 62.69291 620.0236 cm
+Q
+q
+1 0 0 1 62.69291 608.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (If COUNT is zero, then the Q+ ouput should be \(Q + 1\) % 8.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 602.0236 cm
+Q
+q
+1 0 0 1 62.69291 590.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (If COUNT is one, then the Q+ output should be \(Q + 1\) % 5.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 590.0236 cm
+Q
+q
+1 0 0 1 62.69291 572.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You should do some work on paper before creating your circuit in Logisim:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 566.0236 cm
+Q
+q
+1 0 0 1 62.69291 566.0236 cm
+Q
+q
+1 0 0 1 62.69291 554.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Draw a state transition diagram for the circuit.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 548.0236 cm
+Q
+q
+1 0 0 1 62.69291 536.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Write the state transition table, representing the state with three bits.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 530.0236 cm
+Q
+q
+1 0 0 1 62.69291 518.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Add to the state transition table J and K inputs for JK flip-flops holding the state.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 512.0236 cm
+Q
+q
+1 0 0 1 62.69291 500.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Make K-maps for all J and K inputs. Write the simplified logic expression for all six inputs.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 500.0236 cm
+Q
+q
+1 0 0 1 62.69291 470.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .166488 Tw (Now you're ready to build your counter. In addition to the COUNT input, you will have a clock signal and a) Tj T* 0 Tw (RESET input, which sets all JK flip-flops to 0 asyncronously.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 437.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Part Two: The Game Logic) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 407.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .980574 Tw 12 TL /F1 10 Tf 0 0 0 rg (I'll demonstrate this part in class. Start with the file ) Tj /F3 10 Tf (game.circ) Tj /F1 10 Tf (, then add whatever flip-flops and gates to) Tj T* 0 Tw (the ) Tj /F4 10 Tf 0 0 0 rg (logic ) Tj /F1 10 Tf 0 0 0 rg (subcircuit you need, so that:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 401.0236 cm
+Q
+q
+1 0 0 1 62.69291 401.0236 cm
+Q
+q
+1 0 0 1 62.69291 389.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (the direction buttons move the pixel around the "screen," and) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 383.0236 cm
+Q
+q
+1 0 0 1 62.69291 371.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (the reset button moves the pixel to the top-right.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 371.0236 cm
+Q
+q
+1 0 0 1 62.69291 353.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You can use any of the built-in components of the Logisim library.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 320.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Turning it in) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 308.0236 cm
+Q
+q
+1 0 0 1 62.69291 308.0236 cm
+Q
+q
+1 0 0 1 62.69291 296.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Go to your turn-in directory in gdrive.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 290.0236 cm
+Q
+q
+1 0 0 1 62.69291 278.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Create a folder labeled "Homework 3" inside your turn-in directory.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 272.0236 cm
+Q
+q
+1 0 0 1 62.69291 260.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Copy your Logisim files into the assignment folder.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 254.0236 cm
+Q
+q
+1 0 0 1 62.69291 230.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.593735 Tw (Bring your written work to class. All pages should be labeled with your name and "CISS 420) Tj T* 0 Tw (Homework 3.") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 230.0236 cm
+Q
+ 
+endstream
+endobj
+15 0 obj
+<< /Nums [ 0 16 0 R ] >>
+endobj
+16 0 obj
+<< /S /D /St 1 >>
+endobj
+xref
+0 17
+0000000000 65535 f
+0000000075 00000 n
+0000000139 00000 n
+0000000249 00000 n
+0000000364 00000 n
+0000000482 00000 n
+0000000590 00000 n
+0000000799 00000 n
+0000000906 00000 n
+0000001144 00000 n
+0000001220 00000 n
+0000001344 00000 n
+0000001484 00000 n
+0000001600 00000 n
+0000001663 00000 n
+0000008805 00000 n
+0000008849 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(/\355hi\373\360#}\\`\251\355\241\241\337\236) (/\355hi\373\360#}\\`\251\355\241\241\337\236)]
+ /Info 8 0 R /Root 7 0 R /Size 17 >>
+startxref
+8886
+%%EOF

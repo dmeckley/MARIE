@@ -1,0 +1,108 @@
+     Assembly listing for: marie3.mas
+                Assembled: Fri Mar 04 20:18:47 CST 2016
+
+         |                          / Dustin Meckley
+         |                          / ciss420 Computer Architecture
+         |                          / marie3.mas
+         |                          / Homework 4
+         |                          / Multiplication Subroutine
+         |                          
+         |                          / Q = A * B + C * D
+         |                          	
+         |                          	/ Preprocessor Directives:
+         |         ORG 100           
+         |                          	
+         |                          	/ Retrieving A * B:
+100 5000 |         INPUT            / Input value from user into AC		
+101 2116 |         STORE A          / Store AC at address A. This is just to go along with the homework.
+102 211D |         STORE ARG0       / Store AC at address ARG0 to be used as an reference parameter to PROC.
+         |                          
+103 5000 |         INPUT            / Input value from user into AC		
+104 2117 |         STORE B          / Store AC at address B. This is just to go along with the homework.
+105 211E |         STORE ARG1       / Store AC at address ARG1 to be used as an reference parameter to PROC.
+         |                          
+106 0122 |         JNS PROC         / Jump and Store to the PROC subroutine or procedure.
+107 2118 |         STORE AB         / Store AC at address AB.
+         |                          	
+         |                          	/ Retrieving C * D:
+108 5000 |         INPUT            / Input value from user into AC		
+109 2119 |         STORE C          / Store AC at address C. This is just to go along with the homework.
+10A 211D |         STORE ARG0       / Store AC at address ARG0 to be used as an reference parameter to PROC.
+         |                          
+10B 5000 |         INPUT            / Input value from user into AC		
+10C 211A |         STORE D          / Store AC at address D. This is just to go along with the homework.
+10D 211E |         STORE ARG1       / Store AC at address ARG1 to be used as an reference parameter to PROC.
+         |                          
+10E 0122 |         JNS PROC         / Jump and Store to the PROC subroutine or procedure.
+10F 211B |         STORE CD         / Store AC at address CD. 	
+         |                          	/ Retrieving Q = A * B + C * D:	
+110 111C |         LOAD Q           / Load the Q value into AC.
+111 3118 |         ADD AB           / Add AB to the Q value in AC.
+112 311B |         ADD CD           / Add CD to the Q value in AC.
+113 211C |         STORE Q          / Store the combination summation and product value into the Q address.
+         |                          	
+         |                          	/ Output Q to the Console WIndow:
+114 6000 |         OUTPUT           / Output Q value to the user via console window.
+         |                          
+         |                          	/ End's the program's execution:
+115 7000 |         HALT             / Halt the execution of program.
+         |                          	
+         |                          	/ Memory Address Locations:
+116 0003 |  A      DEC 3             
+117 0006 |  B      DEC 6             
+118 0000 |  AB     DEC 0             
+119 0004 |  C      DEC 4             
+11A 0008 |  D      DEC 8             
+11B 0000 |  CD     DEC 0             
+11C 0000 |  Q      DEC 0             
+11D 0000 |  ARG0   DEC 0             
+11E 0000 |  ARG1   DEC 0             
+11F 0000 |  SUM    DEC 0             
+120 0001 |  ONE    DEC 1             
+121 0000 |  ZERO   DEC 0             
+         |                          	
+         |                          	/ Multiplication Procedure Subroutine:
+122 0000 |  PROC   DEC 0             
+         |                          	
+123 1121 |         LOAD ZERO        / Load the 0 value into AC.
+124 211F |         STORE SUM        / Store AC at address SUM.
+         |                          
+125 111E |  L1     LOAD ARG1        / Load the ARG1 value into AC.
+126 8800 |         SKIPCOND 800     / If AC > 0 Skip the next instruction.
+127 912E |         JUMP L2          / Otherwise Jump to Label L2.
+128 4120 |         SUBT ONE         / Subtract 1 from ARG1 value and store in AC. 
+129 211E |         STORE ARG1       / Store AC at address ARG1.
+12A 111F |         LOAD SUM         / Load the SUM summation temp value into AC.
+12B 311D |         ADD ARG0         / Add the value at address location ARG0 to AC.
+12C 211F |         STORE SUM        / Store AC at address SUM.		
+12D 9125 |         JUMP L1          / Jump to Label L1 - Unconditional Condition.
+         |                          		
+12E 111F |  L2     LOAD SUM         / Load the SUM value into AC.
+12F C122 |         JUMPI PROC       / Jump Indirect back to PROC subroutine caller.
+         |                          
+         |         END              / End of PROC prodecure or subroutine.
+
+Assembly successful.
+
+         SYMBOL TABLE
+         --------------------------------------------------
+          Symbol | Defined | References 
+         --------+---------+-------------------------------
+          A      |   116   | 101
+          AB     |   118   | 107, 111
+          ARG0   |   11D   | 102, 10A, 12B
+          ARG1   |   11E   | 105, 10D, 125, 129
+          B      |   117   | 104
+          C      |   119   | 109
+          CD     |   11B   | 10F, 112
+          D      |   11A   | 10C
+          L1     |   125   | 12D
+          L2     |   12E   | 127
+          ONE    |   120   | 128
+          PROC   |   122   | 106, 10E, 12F
+          Q      |   11C   | 110, 113
+          SUM    |   11F   | 124, 12A, 12C, 12E
+          ZERO   |   121   | 123
+         --------------------------------------------------
+
+

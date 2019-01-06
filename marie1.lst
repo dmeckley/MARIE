@@ -1,0 +1,80 @@
+     Assembly listing for: marie1.mas
+                Assembled: Wed Mar 02 22:56:17 CST 2016
+
+         |                          / Dustin Meckley
+         |                          / ciss420 Computer Architecture
+         |                          / marie1.mas
+         |                          / Homework 4
+         |                          / If-Else
+         |                          
+         |                          / if X <= 12:
+         |                          /	Y += X
+         |                          / elif X > 20:
+         |                          /	Z += X + X
+         |                          / else:
+         |                          /	Y = X + Z
+         |                          / Z = X + Y + Z
+         |                          
+         |         ORG 100           
+         |                          
+100 111A |  If     LOAD X            
+101 411D |         SUBT TWELVE       
+102 8800 |         SKIPCOND 800      
+103 9111 |         JUMP Then         
+         |                          
+104 111A |  Elif   LOAD X            
+105 411E |         SUBT TWENTY       
+106 8800 |         SKIPCOND 800      
+107 910D |         JUMP Else         
+108 111C |         LOAD Z            
+109 311A |         ADD X             
+10A 311A |         ADD X             
+10B 211C |         STORE Z           
+10C 9115 |         JUMP Endif        
+         |                          
+10D 111A |  Else   LOAD X            
+10E 311C |         ADD Z             
+10F 211B |         STORE Y           
+110 9115 |         JUMP Endif        
+         |                          
+111 111B |  Then   LOAD Y            
+112 311A |         ADD X             
+113 211B |         STORE Y           
+114 9115 |         JUMP Endif        
+         |                          
+115 111A |  Endif  LOAD X            
+116 311B |         ADD Y             
+117 311C |         ADD Z             
+118 211C |         STORE Z           
+119 7000 |         HALT              
+         |                          	
+11A 000D |  X      DEC 13            
+11B 0002 |  Y      DEC 2             
+11C 0004 |  Z      DEC 4             
+11D 000C |  TWELVE DEC 12            
+11E 0014 |  TWENTY DEC 20            
+         |                          
+         |                          	
+         |                          
+         |                          
+
+Assembly successful.
+
+         SYMBOL TABLE
+         --------------------------------------------------
+          Symbol | Defined | References 
+         --------+---------+-------------------------------
+          Elif   |   104   | 
+          Else   |   10D   | 107
+          Endif  |   115   | 10C, 110, 114
+          If     |   100   | 
+          TWELVE |   11D   | 101
+          TWENTY |   11E   | 105
+          Then   |   111   | 103
+          X      |   11A   | 100, 104, 109, 10A, 10D, 112, 
+                 |         | 115
+          Y      |   11B   | 10F, 111, 113, 116
+          Z      |   11C   | 108, 10B, 10E, 117, 118
+         --------------------------------------------------
+
+

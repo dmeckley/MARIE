@@ -1,0 +1,56 @@
+/ Dustin Meckley
+/ ciss420 Computer Architecture
+/ marie1.mas
+/ Homework 4
+/ If-Else
+
+/ if X <= 12:
+/	Y += X
+/ elif X > 20:
+/	Z += X + X
+/ else:
+/	Y = X + Z
+/ Z = X + Y + Z
+
+	ORG 100
+
+If,	Load X 			/ Load the X value into AC.
+	Subt TWELVE		/ Subtract 12 from X value and store in AC.
+	Skipcond 800		/ If AC > 0, skip next instruction.
+	Jump Then		/ Jump to Then Label if AC <= 0.
+
+Elif,	Load X			/ Load the X value into AC.
+	Subt TWENTY		/ Subtract 20 from X value and store in AC.
+	Skipcond 800		/ If AC > 0, skip next instruction.
+	Jump Else		/ Jump to Else Label if AC <= 0.
+	Load Z			/ Load the Z value into AC.
+	Add X			/ Add the X value to AC.
+	Add X			/ Add the X value to AC.
+	Store Z			/ Store AC at address Z.
+	Jump Endif		/ Jump to Endif Label.
+
+Else,	Load X			/ Load the X value into AC.
+	Add Z			/ Add the Z value to AC.
+	Store Y			/ Store AC at address Y.
+	Jump Endif		/ Jump to Endif Label.
+
+Then,	Load Y			/ Load the Y value into AC.
+	Add X			/ Add the X value to AC.
+	Store Y			/ Store AC at address Y.
+	Jump Endif		/ Jump to Endif Label.
+
+Endif, 	Load X			/ Load the X value into AC.
+	Add Y			/ Add the Y value to AC.
+	Add Z			/ Add the Z value to AC.
+	Store Z			/ Store AC at address Z.
+	Halt			/ End execution of the program.
+	
+X,	DEC	13
+Y,	DEC	2
+Z,	DEC	4
+TWELVE,	DEC	12
+TWENTY,	DEC	20
+
+	
+
+

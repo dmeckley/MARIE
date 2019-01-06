@@ -1,0 +1,91 @@
+/ Dustin Meckley
+/ ciss420 Computer Architecture
+/ marie4.mas
+/ Homework 4
+/ Linked List
+
+	ORG	100
+
+/ Jump past the definition of the list
+/ to the program below.
+
+	JUMP	MAIN
+
+/ This is the pointer with the address
+/ of the first node of the list.
+
+LIST,	HEX	0104
+
+/ The definition of the linked list nodes
+
+NODE2,	HEX	010A	/ Pointer to node 3
+	HEX	0032	/ Data of node 2
+
+NODE1,	HEX	0102	/ Pointer to node 2
+	HEX	0031	/ Data of node 1
+
+NODE4,	HEX	0108	/ Pointer to node 5
+	HEX	0034	/ Data of node 4
+
+NODE5,	HEX	0000	/ Pointer to NULL, end of list
+	HEX	0035	/ Data of node 5
+
+NODE3,	HEX	0106	/ Pointer to node 4
+	HEX	0033	/ Data of node 2
+
+NEXT,	HEX	0200
+VALUE,	DEC	0
+ONE,	DEC	1
+
+/ You should write your program below this line.
+
+MAIN,	Load LIST
+	Store NEXT
+	Output
+	Add ONE
+	Store VALUE
+	LoadI VALUE
+	Output
+
+	Load NODE1
+	Store NEXT
+	Output
+	Add ONE
+	Store VALUE
+	LoadI VALUE
+	Output
+
+	Load NODE2
+	Store NEXT
+	Output
+	Add ONE
+	Store VALUE
+	LoadI VALUE
+	Output
+
+	Load NODE3
+	Store NEXT
+	Output
+	Add ONE
+	Store VALUE
+	LoadI VALUE
+	Output
+
+	Load NODE4
+	Store NEXT
+	Output
+	Add ONE
+	Store VALUE
+	LoadI VALUE
+	Output
+
+	Load NODE5
+	Store NEXT
+	Output
+	Add ONE
+	Store VALUE
+	LoadI VALUE
+	Output
+
+	HALT
+
